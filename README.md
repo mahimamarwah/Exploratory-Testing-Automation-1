@@ -1,6 +1,6 @@
-# A Chrome Extension for Exploratory Testing
+# A Chrome Extension for Exploratory Testing Automation
 
-A Chrome extension designed for making web exploratory testing easier
+A Chrome extension designed for making web exploratory testing automation easier
 
 **Features**
 
@@ -26,4 +26,4 @@ Install from [Chrome Store](https://chrome.google.com/webstore/detail/explorator
 
 _PS: I'm not a web designer, so any help with web design or UX will be appreciated._
 
-twitter: @morvader
+twitter: @mahima
